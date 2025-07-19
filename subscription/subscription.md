@@ -1,6 +1,6 @@
 ---
 title: Subscription
-description: Learn about RCL Learn subscription.
+description: Learn about RCL Verifiable Credentials Subscription.
 has_children: true
 nav_order: 2
 ---
