@@ -3,7 +3,7 @@ title: Refund Policy
 description: Refund Policy for RCL Learn
 has_children: false
 parent: Subscription
-nav_order: 3
+nav_order: 6
 ---
 
 # Refund Policy

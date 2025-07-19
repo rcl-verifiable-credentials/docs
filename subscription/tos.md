@@ -3,7 +3,7 @@ title: Terms of Service
 description: Terms of Service for the use of RCL Verifiable Credentials
 has_children: false
 parent: Subscription
-nav_order: 2
+nav_order: 5
 ---
 
 # Terms of Service
