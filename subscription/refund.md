@@ -1,8 +1,8 @@
 ---
 title: Refund Policy
 description: Refund Policy for RCL Learn
-has_children: false
 parent: Subscription
+has_children: false
 nav_order: 6
 ---
 

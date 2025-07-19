@@ -1,8 +1,8 @@
 ---
 title: Privacy Policy
 description: Privacy Policy for the RCL Verifiable Credentials
-has_children: false
 parent: Subscription
+has_children: false
 nav_order: 4
 ---
 

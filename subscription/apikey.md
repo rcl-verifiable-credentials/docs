@@ -2,6 +2,7 @@
 title: API Key
 description: Getting the API Key for RCL Verifiable Credentials Subscription
 parent: Subscription
+has_children: false
 nav_order: 2
 ---
 
