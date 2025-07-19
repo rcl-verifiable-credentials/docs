@@ -5,7 +5,7 @@ parent: Subscription
 nav_order: 3
 ---
 
-# API Key
+# Co-Admin
 **V1.0**
 
 TODO
