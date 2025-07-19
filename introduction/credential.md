@@ -1,6 +1,7 @@
 ---
 title: Verifiable Credentials
 description: Verifiable Credentials are issued to holders who demonstrate their achievements and skills. They are machine-readable and are secured by cryptographic methods.
+parent: Introduction
 has_children: false
 nav_order: 3
 ---

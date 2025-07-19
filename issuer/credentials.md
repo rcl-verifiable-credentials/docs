@@ -1,7 +1,7 @@
 ---
 title: Credentials
 description: Learn how to issue a Verifiable Credential in RCL Verifiable Credentials.
-parent: issuer
+parent: Issuer
 has_children: false
 nav_order: 1
 ---
