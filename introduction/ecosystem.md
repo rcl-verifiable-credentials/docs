@@ -1,5 +1,5 @@
 ---
-title: DID
+title: Eco-System
 description: Eco-System for RCL Verifiable Credentials
 parent: Introduction
 has_children: false
@@ -17,8 +17,7 @@ Digital credentials are issued to holders who demonstrate their achievements. Th
 
 # Roles in the Digital Credentials Eco-System
 
-![credendiatl eco-system](./img/eco-system.png)
-
+![credential eco-system](/img/eco-system.png)
 
 ## Issuer
 
