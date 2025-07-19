@@ -1,8 +1,8 @@
 ---
 title: Terms of Service
 description: Terms of Service for the use of RCL Verifiable Credentials
-has_children: false
 parent: Subscription
+has_children: false
 nav_order: 5
 ---
 

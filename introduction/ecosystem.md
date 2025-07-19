@@ -2,6 +2,7 @@
 title: DID
 description: Eco-System for RCL Verifiable Credentials
 parent: Introduction
+has_children: false
 nav_order: 1
 ---
 

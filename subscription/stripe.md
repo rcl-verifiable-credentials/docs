@@ -1,8 +1,8 @@
 ---
 title: Stripe Subscription
 description: Learn how to create and manage your RCL Verifiable Credentials subscription with Stripe
-has_children: false
 parent: Subscription
+has_children: false
 nav_order: 1
 ---
 
