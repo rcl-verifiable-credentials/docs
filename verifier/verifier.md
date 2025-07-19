@@ -1,7 +1,6 @@
 ---
 title: Verifier
 description: Learn how to view a holder's credentials in RCL Verifiable Credentials.
-parent: Verifier
 has_children: true
 nav_order: 6
 ---
