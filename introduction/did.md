@@ -72,6 +72,8 @@ Using the did:jwk method, the public key is embedded in the DID. The DID is form
 did:jwk:eyJrdHkiOiJSU0EiLCJuIjoiOW5iMGtyZFdNUjBBSFhzdjh2dzcybzNvdGZCQ0RfY0tnenVyY1FzeEYycmJSc2F5VmJXRWVvcEZIOTNyQ3JlR056UjJBQWtMRG9mSWZ2QU1aR2xWOW5WZTIyMXRScmE4NU9vUEdSZVhQWmh2aVQ2WGpXQ2tHY3N5U1ZYZHNrX192R1VNeGF0b2FNM1A1Q1cyRDAxbGJSc1RDVW1EMG50M01mU1lQNkkzVnFuSVQ5eGVSaDBpZGJQQXFkUkQtSVdINDNHMEhsR0JMeWc3QjNfTnlRc2Y1b2RvUkU2b0NwZ09sdVR3bkh6SmptV081RzVGWmFIdnFmZXdYeXhKbmhWYmFLU3BRbGpUUFp1SXZQMERLX3FvV1h4MFNYUk4tbmJuUkxtaG5QNUQwM0lZenR1R1J4RVM3djdPdG5kY2JSOUNLaWNaRjNJdUdoOS0zdTJRdHY5UlNRIiwiZSI6IkFRQUIifQ
 ```
 
+# Resolving a DID
+
 Computer systems that can read the DID will **resolve** the DID into a **DID Document**. You can use the [Universal Resolver](https://dev.uniresolver.io/) provided by the [Decentralized Identity Foundation (DIF)](https://identity.foundation/) to resolve a DID. Just copy the DID into the ``did-url`` textbox and click the ``Resolve`` button. The DID will be resolved into a DID document in ``json`` format that looks something like this:
 
 ## Sample DID Document using the did:jwk Method

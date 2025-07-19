@@ -6,7 +6,7 @@ has_children: false
 nav_order: 1
 ---
 
-# Introduction
+# Eco-System
 **V1.0**
 
 These guidance documents are targeted at holders, issuers and application hosters who use or host the Credentials Web Wallet, Credentials Mobile Wallet and the Credentials Issuer applications to manage digital credentials.
