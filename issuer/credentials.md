@@ -8,13 +8,42 @@ nav_order: 1
 
 # Credentials
 **V1.0**
-TODO
+
+An issuer will issue a credential to a holder to recognize his/her achievement. The [credential](/introduction/introduction.md) will be created in accordance with the [W3C Verifiable Credentials Specification](https://www.w3.org/TR/vc-data-model-2.0/).
 
 ## Credential Group
-TODO
+
+An issuer will organize credentials within ``Credential Groups``. To create a group :
+
+- In the ``Issuer`` portal, click on ``Issuer > Credentials`` in the side menu
+
+- In the ``Credentials Group`` page, add a new group
+
+- You will then add credentials to this group
 
 ## Credential
-TODO
+
+Credentials are created within a Credential Group. To create a credential :
+
+- In the ``Issuer`` portal, in the ``Credentials Groups`` page, for a selected Group, click on ``Credentials`` from the drop down menu
+
+- In the ``Credentials`` page, create a credential
+
+- Once a credential is created, an issuer can issue this credential to a holder
 
 ## Credential Issuance
-TODO
+
+To issue a credential to a holder:
+
+- In the ``Issuer`` portal, in the ``Credentials`` page, for a selected credential, click on the ``Issuances`` link in the drop down menu
+
+- In the ``Issuances`` page, create a new Issuance
+
+- In the ``Create Issuance`` page, add the holder username to which the credential will be issued
+
+{: .information }
+Before a holder username can be added. The user should have created a profile and DID in the ``Holder`` portal. You can click on the ``Search Holder`` link to search for the username to ensure it is a valid user. Please ensure the user's profile data and photo are acceptable, as it will be included in the credential.
+
+- Create a ``Cohort`` or select an exiting one. A cohort is used to organize issuances.
+
+- When you have created an issuance. It will appear in the ``Holder`` portal for the user to access it.

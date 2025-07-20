@@ -10,4 +10,33 @@ nav_order: 1
 **V1.0**
 TODO
 
+Credentials will be issued to a holder by issuers. The [credential](/introduction/introduction.md) will be created in accordance with the [W3C Verifiable Credentials Specification](https://www.w3.org/TR/vc-data-model-2.0/)
+
+Before an issuer can issue a credential to a holder, the holder must create a profile and DID. Once the holder has complete this, they can provide their username to the issuer to receive their credential.
+
+
+## Viewing a Credential
+
+- In the ``Holder`` portal, click on ``Holder > Credentials`` in the side menu
+
+- In the ``Credentials`` page, on a selected credential, click on the ``Details`` link in the ``Manage`` drop down button
+
+- You can view and download the credential.
+
 ## Collections
+
+A holder can organize a group of credentials in a collection. A collection may contain credentials with the same theme or occupation area. You can also order credentials within a collection using the ``sorting code`` property. Collection can be shared with verifiers such as employers and peers. To create a collection :
+
+- In the ``Holder`` portal, click on ``Holder >> Collections`` in the side menu
+
+- In the ``Collections`` page, add a new collection
+
+- After you created a collection, you can add credentials to the collection
+
+### Adding Credentials to a Collection
+
+- In the ``Collections`` page, for a selection collection, click the ``Credentials`` link from the ``Manage`` drop down button
+
+- In the ``Collection Credential`` page, add a credential to the collection
+
+- When you have finished adding credentials to a collection, you can share all your collections with one or more verifiers
