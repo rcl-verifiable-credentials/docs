@@ -7,4 +7,5 @@ nav_order: 6
 
 # Verifier
 **V1.0**
-TODO
+
+In this section, you will learn how a verifier can view credentials shared by a holder.
