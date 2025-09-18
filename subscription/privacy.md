@@ -9,9 +9,18 @@ nav_order: 4
 # Privacy Policy
 **V1.0**
 
+## Scope
+
+This policy applies to the following **RCL Verifiable Credentials" applications
+
+- RCL Verifiable Credentials Web Wallet
+- RCL Verifiable Credentials Mobile Wallet
+- RCL Verifiable Credentials Issuer App
+- RCL Verifiable Credentials Verifier App
+
 ## Cookies
 
-When you visit **RCL Verifiable Credentials** application, we use cookies to collect standard internet login information and details about the behavior of visitors to our site.
+When you visit the **RCL Verifiable Credentials** applications, we use cookies to collect standard internet login information and details about the behavior of visitors to our site.
 
 We do this to find out things such as the number of visitors to the various parts of our site and to provide you
 with a better experience.

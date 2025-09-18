@@ -9,7 +9,7 @@ nav_order: 1
 # Credentials
 **V1.0**
 
-An issuer will issue a credential to a holder to recognize his/her achievement. The [credential](/introduction/introduction.md) will be created in accordance with the [W3C Verifiable Credentials Specification](https://www.w3.org/TR/vc-data-model-2.0/).
+An issuer will issue a credential to a holder to recognize his/her achievement. The [credential](/introduction/introduction.md) will be created in accordance with the [W3C Verifiable Credentials Specification](https://www.w3.org/TR/vc-data-model-2.0/) using the **RCL Verifiable Credentials Issuer App**.
 
 ## Credential Group
 
@@ -33,6 +33,9 @@ Credentials are created within a Credential Group. To create a credential :
 
 ## Credential Issuance
 
+{: .information }
+An issuer must be **Verified** as who they claim to be before they can issue a credential. The issuer must make a request to be verified using the support platform provided.
+
 To issue a credential to a holder:
 
 - In the ``Issuer`` portal, in the ``Credentials`` page, for a selected credential, click on the ``Issuances`` link in the drop down menu
@@ -46,4 +49,6 @@ Before a holder username can be added. The user should have created a profile an
 
 - Create a ``Cohort`` or select an exiting one. A cohort is used to organize issuances.
 
-- When you have created an issuance. It will appear in the ``Holder`` portal for the user to access it.
+- When you have created an issuance you should notify the holder on how the credential can be downloaded.
+
+- In the ``Issuance Details`` page, click the ``Notify Holder`` button to notify the holder.

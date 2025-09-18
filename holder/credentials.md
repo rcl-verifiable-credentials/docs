@@ -8,20 +8,28 @@ nav_order: 1
 
 # Credentials
 **V1.0**
-TODO
 
-Credentials will be issued to a holder by issuers. The [credential](/introduction/introduction.md) will be created in accordance with the [W3C Verifiable Credentials Specification](https://www.w3.org/TR/vc-data-model-2.0/)
+Credentials will be issued to a holder by issuers. The [verifiable credential](/introduction/introduction.md) will be created in accordance with the [W3C Verifiable Credentials Specification](https://www.w3.org/TR/vc-data-model-2.0/)
 
+{: .information }
 Before an issuer can issue a credential to a holder, the holder must create a profile and DID. Once the holder has complete this, they can provide their username to the issuer to receive their credential.
 
 
-## Viewing a Credential
+## Downloading a Credential
 
-- In the ``Holder`` portal, click on ``Holder > Credentials`` in the side menu
+- A holder will be notified in the ``Notification Page`` by the issuer on how to download the credential issued to them
 
-- In the ``Credentials`` page, on a selected credential, click on the ``Details`` link in the ``Manage`` drop down button
+- In the ``Credentials Download Page``, click the ``Download`` button to download the credential
 
-- You can view and download the credential.
+- Save the credential in a safe place
+
+## Saving the Credential in the Web Wallet
+
+A holder can save their verifiable credentials in the web wallet application.
+
+- In the **RCL Verifiable Credentials Web Wallet**, open the ``Credentials`` page and click the ``Add a Credential`` button.
+
+- Then upload the credential to the web wallet.
 
 ## Collections
 
