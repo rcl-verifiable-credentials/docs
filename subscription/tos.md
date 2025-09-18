@@ -13,15 +13,15 @@ nav_order: 5
 
 These Terms of Service applies to all users who subscribe to or use the software and services developed by RCL Global LLC. The software and services (known as the 'Service') include the following:
 
-- RCL Verifiable Credentials
+- RCL Verifiable Credentials Issuer App
 
 ## General Conditions
 
-You may not use the software and services for any illegal or unauthorized purpose nor may you, in the use of the software and services, violate any laws in your jurisdiction (including but not limited to copyright laws), the laws applicable to you in your customer’s jurisdiction. You will comply with all applicable laws, rules and regulations in your use of the software and services.
+You may not use the Service for any illegal or unauthorized purpose nor may you, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws), the laws applicable to you in your customer’s jurisdiction. You will comply with all applicable laws, rules and regulations in your use of the Service.
 
 ## Our Rights
 
-We reserve the right to modify or terminate your subscription or access to software and services (known as the 'Service') for any reason, without notice at any time. We reserve the right to refuse the Service to anyone for any reason at any time. We may, but have no obligation to, suspend or terminate the subscription or access if we determine in our sole discretion that materials uploaded or posted violates these Terms of Service.
+We reserve the right to modify or terminate your subscription or access to the Services for any reason, without notice at any time. We reserve the right to refuse the Service to anyone for any reason at any time. We may, but have no obligation to, suspend or terminate the subscription or access to the Service if we determine in our sole discretion that materials uploaded or posted violates these Terms of Service.
 
 Verbal or written abuse of any kind (including threats of abuse or retribution) of any customer, employee, member, or officer will result in immediate subscription termination. We reserve the right to provide our Service to your competitors and make no promise of exclusivity in any particular market segment. 
 
@@ -37,8 +37,8 @@ You agree to indemnify and hold RCL Global LLC our partners, officers, directors
 
 ## Payment Of Fees
 
-You will pay the Fees applicable to your subscription the Service. Subscription Fees are billed in 30 day intervals (each such date, a “Billing Date”). You will be charged on each Billing Date for all outstanding Fees that have not previously been charged. If you do not pay the Fees applicable to your subscription we will cancel your Account. We do not provide refunds.
+You will pay the fees applicable to your subscription for the Service. Subscription fees are billed in 30 day intervals (each such date, a “Billing Date”). You will be charged on each Billing Date for all outstanding fees that have not previously been charged. If you do not pay the fees applicable to your subscription we will cancel your subscription and delete your data saved on the Service. We do not provide refunds.
 
 ## Cancellation
 
-We reserve the right to cancel your subscription to the Service for any reason, without notice at any time. Fraud: Without limiting any other remedies, we may cancel your subscription to the Service if we suspect that you (by conviction, settlement, insurance or escrow investigation, or otherwise) have engaged in fraudulent activity in connection with the use of the Service.
+We reserve the right to cancel your subscription to the Service for any reason, without notice at any time. Fraud: Without limiting any other remedies, we may cancel your subscription to the Service if we suspect that you (by conviction, settlement, insurance or escrow investigation, or otherwise) have engaged in fraudulent activity in connection with the use of the Service. When a subscription is cancelled the data stored in the Service will be deleted.
