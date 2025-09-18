@@ -223,4 +223,4 @@ A user must upload their DID in the wallet application's DID store before they c
 
 # Sharing a Verifiable Credential
 
-In the web/mpbile wallet applications, a holder can share their credentials with verifiers such as employers and trainers.
+In the web/mobile wallet applications, a holder can share their credentials with verifiers such as employers and trainers.

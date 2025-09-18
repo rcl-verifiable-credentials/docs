@@ -21,11 +21,11 @@ Verifiable Credentials are issued to holders to recognize their achievements. Th
 
 ## Issuer
 
-An issuer is an organization or individual that issues a verifiable credential to a holder who has demonstrated achievement in a particular area or skill and knowledge.
+An issuer is an organization or individual that issues a verifiable credential to a holder who has demonstrated achievement in a particular area of skill and knowledge.
 
 ## Holder
 
-A holder is an individual that receives a verifiable credential from the issuer as recognition for their achievement.
+A holder is an individual who receives a verifiable credential from the issuer as recognition for their achievement.
 
 ## Verifier
 
@@ -49,7 +49,7 @@ The [W3C Decentralized Identifier](https://www.w3.org/TR/did-1.1/) is a specific
 
 ## RCL Verifiable Credentials Web Wallet
 
-The web wallet is a web application used by holders to store and share their digital credentials with verifiers.
+The web wallet is a web application used by holders to store and share their verifiable credentials with verifiers.
 
 ## RCL Verifiable Credentials Mobile Wallet
 
@@ -57,8 +57,8 @@ The credentials mobile wallet is a native mobile application on Android, iOS and
 
 ## RCL Verifiable Credentials Issuer App
 
-The web application that an issuer uses to create and issue verifiable credential to holders.
+A web application that an issuer uses to create and issue verifiable credential to holders.
 
 ## RCL Verifiable Credentials Verifier App
 
-The web application that a verifier uses to view verifiable credentials shared by holders.
+A web application that a verifier uses to view verifiable credentials shared by holders.

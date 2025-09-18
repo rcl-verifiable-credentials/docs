@@ -11,7 +11,7 @@ nav_order: 2
 
 A holder can share verifiable credentials with verifiers such as employers and peers. You will be sharing all your [Collections](/holder/credentials.md#collections). To share your collections :
 
-- In the portal, click on ``Sharing`` in the side menu
+- In the **RCL Verifiable Credentials Web Wallet** portal, click on ``Sharing`` in the side menu
 
 - In the ``Sharing List``, add a user to share the collection. The user must use the ``Verifier`` portal to view the collection
 
