@@ -35,7 +35,7 @@ A holder can save their verifiable credentials in the web wallet application.
 
 A holder can organize a group of credentials in a collection. A collection may contain credentials with the same theme or occupation area. You can also order credentials within a collection using the ``sorting code`` property. Collection can be shared with verifiers such as employers and peers. To create a collection :
 
-- In the ``Holder`` portal, click on ``Holder >> Collections`` in the side menu
+- In the **RCL Verifiable Credentials Web Wallet** portal, click on ``Collections`` in the side menu
 
 - In the ``Collections`` page, add a new collection
 

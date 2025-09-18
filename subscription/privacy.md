@@ -11,7 +11,7 @@ nav_order: 4
 
 ## Scope
 
-This policy applies to the following **RCL Verifiable Credentials" applications
+This policy applies to the following **RCL Verifiable Credentials** applications
 
 - RCL Verifiable Credentials Web Wallet
 - RCL Verifiable Credentials Mobile Wallet

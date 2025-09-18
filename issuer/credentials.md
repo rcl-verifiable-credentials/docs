@@ -15,7 +15,7 @@ An issuer will issue a credential to a holder to recognize his/her achievement. 
 
 An issuer will organize credentials within ``Credential Groups``. To create a group :
 
-- In the ``Issuer`` portal, click on ``Issuer > Credentials`` in the side menu
+- In the ``Issuer`` portal, click on ``Credentials`` in the side menu
 
 - In the ``Credentials Group`` page, add a new group
 
@@ -25,7 +25,7 @@ An issuer will organize credentials within ``Credential Groups``. To create a gr
 
 Credentials are created within a Credential Group. To create a credential :
 
-- In the ``Issuer`` portal, in the ``Credentials Groups`` page, for a selected Group, click on ``Credentials`` from the drop down menu
+- In the portal, in the ``Credentials Groups`` page, for a selected Group, click on ``Credentials`` from the drop down menu
 
 - In the ``Credentials`` page, create a credential
 
@@ -38,7 +38,7 @@ An issuer must be **Verified** as who they claim to be before they can issue a c
 
 To issue a credential to a holder:
 
-- In the ``Issuer`` portal, in the ``Credentials`` page, for a selected credential, click on the ``Issuances`` link in the drop down menu
+- In the **RCL Verifiable Credentials Issuer App** portal, in the ``Credentials`` page, for a selected credential, click on the ``Issuances`` link in the drop down menu
 
 - In the ``Issuances`` page, create a new Issuance
 
